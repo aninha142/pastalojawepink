@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deminski Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<span>
+<body>
+    <header class="cabecalho"> 
+        <img class="cabecalho-imagem" src="./wepink.png" alt="logo da loja">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Produtos</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Serviços</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Contato</a></li>
+            <li class="cabecalho-lista-item"><a href="https://www.instagram.com/deminski_store/">Pagamentos</a></li>
+        </ul>
+    </header>
+
+
+    <section id="loja1">
+        <div class="loja-div-imagem">
+            <h2 class="loja-titulo">Wepink store</h2>
+            <p class="loja-texto">A Wepink Store é uma loja de roupas e calçados que oferece uma ampla variedade de produtos de qualidade, desde vestidos básicos até modelos mais estravegantes e sofisticados. Localizada em um espaço moderno e convidativo, a loja conta com atententes  altamente experientes no ramo da moda.</p>
+            <p class="loja-texto">Além de vender roupas e calçados, a wepink   Store também oferece acessórios como bolsas,cintos e carteiras.</p>
+            <p class="loja-texto">A loja possui parcerias com as principais marcas do mercado, como gucci, prada, channel, Louis vuitton, entre outras, garantindo assim produtos originais e com garantia de fábrica. A Wepink Store também oferece opções de pagamento facilitadas e programas de fidelidade que garantem descontos especiais para clientes frequentes.</p>
+            <p class="loja-texto">Com um compromisso com a excelência no atendimento e a aceitação do cliente, a Wepink Store se tornou uma referência de um destino obrigatório para quem busca qualidade e confiança na hora de adquirir um produto ou acessório .</p>
+             
+        </div>
+        <img class="loja-imagem" src="./loja.jpeg" alt="imagem que representa a loja">
+    </section>
+
+    <section id="loja2">
+        <div class="-rupa pink.jpg">
+            <h3 class="aparelhos-titulo">Descrição dos modelos</h3>
+            <h4 class="aparelhos-titulo1">blaser rosa e calça jeans </h4>
+            <p class="aparelhos-texto">O blaser rosa vem com  características casuais e modernas e o seu tecido de malha algodao.ja a nossa calça jeans basica porem moderna que combina com qualquer subposiçao.</p>
+                <img class="iphone-14-Pro-Max-imagem" src="./iphone 14 Pro Max.webp" alt="imagem que representa o iphone 14 Pro Max">
+                
+        </div>
+
+
+    </section>
+    <section id="loja3">
+        <div class="roupa pink.jpeg">
+            <h6 class="aparelhos-titulo1">iPhone 13 Pro Max</h6>
+            <p class="aparelhos-texto">O Apple iPhone 13 Pro Max é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização. A tela de 6.7 polegadas coloca esse Apple no topo de sua categoria. A resolução também é alta: 2778x1284 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro Max são muitas e top de linha. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS presente no aparelho. Tem também leitor multimídia, videoconferência, e bluetooth. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+                Câmera de 12 megapixel. A espessura de apenas 7.7 milímetros torna o Apple iPhone 13 Pro Max um dos telefones mais finos que existem.</p>
+            <h7 class="aparelho-titulo1">iPhone 13 Pro</h7>
+            <p class="aparelhos-texto"> O Apple iPhone 13 Pro é um dos smartphones iOS mais avançados e completos que existem em circulação. Tem um grande display de 6.06 polegadas com uma resolução de 2532x1170 pixel. As funcionalidades oferecidas pelo Apple iPhone 13 Pro são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 1000 GB mas sem a possibilidade de expansão.
+                Câmera discreta de 12 megapixel mas que permite ao Apple iPhone 13 Pro tirar fotos de boa qualidade com uma resolução de 4000x3000 pixel e gravar vídeos em 4K a espantosa resolução de 3840x2160 pixels. A espessura de 7.7mm torna o Apple iPhone 13 Pro um dos telefones mais completos e finos.</p>
+            <img class="iphone-13-Pro-Max-e-13-imagem" src="./iphone 13 pro e 13 pro max.jpg" alt="imagem que representa o iphone 13 Pro Max e 13 Pro">
+           
+        </div>
+
+    </section>
+        <section id="video">
+            <video width="800" height="500"controls="controls" autoplay="autoplay">
+                <source src="./VALE a pena COMPRAR o IPHONE 13 PRO MAX em 2023_ 📱 Vantagens e Desvantagens.mp4" type="video/mp4">
+                <object data="" width="0" height="300">
+                <embed width="0" height="300" src="iphone 13 Pro Max.mp4">
+    </section>
+
+    <footer class="rodape">
+        <h8 class="nome-loja"> DEMINSKI STORE</h8>;
+    </footer>
+
+</body>
+</html>
